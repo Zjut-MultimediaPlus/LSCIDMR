@@ -6,3 +6,6 @@ The dataset includes 3 files. Please download the dataset files from BaiduYun.<b
 The size of images in primary version of  this dataset is 256 * 256 pixels due to the limitaion of storage space on BaiduYun.  High resolution version will be released in the future.
 
 Please cite our papers if the dataset is useful for you. Thank you!
+```
+C Bai, M Zhang, J Zhang*, J Zheng, SY Chen, LSCIDMR: Large-scale Satellite Cloud Image Database for Meteorological Research, IEEE Transactions on Cybernetics, 10.1109/TCYB.2021.308012
+```
