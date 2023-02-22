@@ -21,7 +21,7 @@ More details can be found in the paper: "LSCIDMR: Large-scale Satellite Cloud Im
 
 ## Download
 The dataset includes 3 files. Please download the dataset files from BaiduYun or Google Cloud.
-1. BaiduYun:  https://pan.baidu.com/s/18hdTd3Kl6uJEIwPnU-0qaA   &nbsp;&nbsp;&nbsp;       Fetch Code: 6666.
+1. BaiduYun:  https://pan.baidu.com/s/1J5zh0iygyZoCi0QZVPd3Wg   &nbsp;&nbsp;&nbsp;       Fetch Code: 2w3v.
 2. Google Cloud:  https://drive.google.com/drive/folders/1GZlLFCcSJqIw-e04ABw_haByIwLgjsX8?usp=sharing  
 <br>(The size of images in primary version of this dataset is 256 * 256 pixels named
 “LSCIDMR”due to the limitaion of storage space. The file named “png” and “jpg” storage 1000*1000 pixels high resolution version.)
